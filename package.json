@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "type": "module",
-  "homepage": "https://gowthamdev04-coder.github.io/",
+  "homepage": "https://gowthamdev04-coder.github.io/honeybee-cafe",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
