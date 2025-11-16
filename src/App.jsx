@@ -18,7 +18,7 @@ function App() {
 
       <div className="page-wrapper">
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/honeybee-cafe" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/Contact" element={<ContactPage />} />
           <Route path="/our-Menus" element={<MenuPage />} />
